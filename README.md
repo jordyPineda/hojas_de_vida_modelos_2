@@ -1,6 +1,6 @@
 # hojas_de_vida_modelos_2
 
-hecho ppor
+hecho por
 
 * Daniel Rodriguez - 20172020009
 * Davidad Bohorquez - 20172020083
